@@ -1,0 +1,10 @@
+.settings/
+*.txt
+*.csv
+target/
+.classpath
+/data
+/bin
+.DS_Store
+
+/logs
